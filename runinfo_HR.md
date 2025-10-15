@@ -1,6 +1,6 @@
 ## Compilanje
 
-Projekt zahtjeva SFML biblioteku za C++ (idealno statička verzija jer je compile.bat na tome baziran) \
+Projekt zahtjeva SFML biblioteku za C++ \
 U compile.bat je potrebno unijeti putanju do SFML biblioteke.
 
 ## Pokretanje
